@@ -15,7 +15,7 @@
                 "context_set": ""
         },
         {"tag": "shop",
-                "patterns": ["I want to buy a ryzen laptop","What do you reccomend for students?","I am looking to buy a work laptop", "I want to buy a good laptop","Id like to buy something", "whats on the menu", "what do you reccommend?", "could i get something to eat", "I am looking for something", "I am looking to buy watches"],
+                "patterns": ["I want to buy a ryzen laptop","What do you reccomend for students?","I am looking to buy a work laptop", "I want to buy a good laptop","Id like to buy something", "whats on the menu", "what do you reccommend?", "could i get something to eat", "I am looking for something", "I am looking to buy watches","I am looking for laptop just for binge watching"],
                 "responses": ["We sell chocolate chip cookies for $2!", "Cookies are on the menu!"],
                 "context_set": ""
         },
