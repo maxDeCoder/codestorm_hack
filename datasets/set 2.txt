@@ -9,13 +9,17 @@ I want to gift a laptop to my daughter, She is into illustrarions, photo editing
 Show only SSD laptops.
 Show MacOS laptops only.
 Show laptops below price range 40000.
+Show laptop above 50000.
+Show laptops above 70000.
+Show laptop under 80000.
+10 inch laptop.
+15 inch laptop.
 Show me premium laptops above 1 lakh.
 Show some good Video editing laptops.
 Show me laptop with good graphics.
 Show laptops with good battery life.
 Show light weight laptops.
 Show compact, slim and light weight laptops.
-Show laptops with latest components.
 Show laptop of screen size between 10-15 inches.
 Any Recommendation for people who play games on daily basis.
 What are your reccomendations for Graphics Designers.
@@ -23,5 +27,6 @@ What are your reccomendations for School/College going children.
 Best gaming laptop.
 Best designer laptop.
 Most affordable laptop for students.
+Laptops just for meeting purposes.
 
 
