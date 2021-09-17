@@ -1,1 +1,3 @@
-hi
+I want to buy a student laptop.
+Show only SSD laptops.
+Only Mac Operating system.
