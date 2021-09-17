@@ -12,8 +12,8 @@ Show laptops below price range 40000.
 Show laptop above 50000.
 Show laptops above 70000.
 Show laptop under 80000.
-10 inch laptop.
-15 inch laptop.
+Show me laptop with 10 inch screen.
+Show me laptop with 15 inch screen.
 Show me premium laptops above 1 lakh.
 Show some good Video editing laptops.
 Show me laptop with good graphics.
