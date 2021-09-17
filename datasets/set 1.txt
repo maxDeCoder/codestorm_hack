@@ -1,0 +1,38 @@
+What do you reccomend?
+I want to buy a gaming laptop.
+I am looking to buy a work laptop.
+I want to buy a good laptop
+Id like to buy something
+What do you reccoment for a student?
+What do you reccoment for a gamer?
+What do you reccoment for a designer?
+What is good for a gamer?
+What is good for a student
+What is good for a designer?
+I would like to buy something for my friend.
+He likes to play games.
+He is a graphics designer.
+He is a student.
+He is a working professional.
+I want to buy a Lenovo Product.
+I want to buy a laptop for my college.
+I want to buy something with Intel processor.
+What is the best laptop by HP.
+What is the best laptop by Asus.
+I want to buy a MSI laptop.
+I want to buy a i7 laptop.
+I want to buy a i5 laptop.
+I want to buy a i3 laptop.
+I want to buy a Ryzen laptop.
+I want to buy a laptop with Graphics card.
+I want to buy a laptop with 1650ti Graphics card.
+I want to buy a laptop with 8GB RAM.
+I want to buy a laptop with 8GB VRAM.
+I want to buy a laptop with 8GB Graphic card.
+I want to buy a laptop with Nvidia Graphic card.
+What do you reccoment from Apple.
+Show me laptops below 50000.
+Show me laptops above 70k.
+Show me laptops around 1 lakh.
+Show me laptops for mode than 1 lakh.
+What is the best device for 60k.

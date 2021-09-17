@@ -1,0 +1,500 @@
+{
+    "classes": [
+        "TYPE",
+        "BRAND",
+        "CONFIG",
+        "COMPONENT",
+        "PRICE",
+        "PRICE_TYPE"
+    ],
+    "annotations": [
+        [
+            "What do you reccomend?",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "I want to buy a gaming laptop.",
+            {
+                "entities": [
+                    [
+                        16,
+                        22,
+                        "TYPE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I am looking to buy a work laptop.",
+            {
+                "entities": [
+                    [
+                        22,
+                        26,
+                        "TYPE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I want to buy a good laptop",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "Id like to buy something",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "What do you reccoment for a student?",
+            {
+                "entities": [
+                    [
+                        28,
+                        35,
+                        "TYPE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "What do you reccoment for a gamer?",
+            {
+                "entities": [
+                    [
+                        28,
+                        33,
+                        "TYPE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "What do you reccoment for a designer?",
+            {
+                "entities": [
+                    [
+                        28,
+                        36,
+                        "TYPE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "What is good for a gamer?",
+            {
+                "entities": [
+                    [
+                        19,
+                        24,
+                        "TYPE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "What is good for a student",
+            {
+                "entities": [
+                    [
+                        19,
+                        26,
+                        "TYPE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "What is good for a designer?",
+            {
+                "entities": [
+                    [
+                        19,
+                        27,
+                        "TYPE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I would like to buy something for my friend.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "He likes to play games.",
+            {
+                "entities": [
+                    [
+                        17,
+                        22,
+                        "TYPE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "He is a graphics designer.",
+            {
+                "entities": [
+                    [
+                        17,
+                        25,
+                        "TYPE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "He is a student.",
+            {
+                "entities": [
+                    [
+                        8,
+                        15,
+                        "TYPE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "He is a working professional.",
+            {
+                "entities": [
+                    [
+                        8,
+                        28,
+                        "TYPE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I want to buy a Lenovo Product.",
+            {
+                "entities": [
+                    [
+                        16,
+                        22,
+                        "BRAND"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I want to buy a laptop for my college.",
+            {
+                "entities": [
+                    [
+                        30,
+                        37,
+                        "TYPE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I want to buy something with Intel processor.",
+            {
+                "entities": [
+                    [
+                        29,
+                        34,
+                        "BRAND"
+                    ],
+                    [
+                        35,
+                        44,
+                        "COMPONENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "What is the best laptop by HP.",
+            {
+                "entities": [
+                    [
+                        27,
+                        29,
+                        "BRAND"
+                    ]
+                ]
+            }
+        ],
+        [
+            "What is the best laptop by Asus.",
+            {
+                "entities": [
+                    [
+                        27,
+                        31,
+                        "BRAND"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I want to buy a MSI laptop.",
+            {
+                "entities": [
+                    [
+                        16,
+                        19,
+                        "BRAND"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I want to buy a i7 laptop.",
+            {
+                "entities": [
+                    [
+                        16,
+                        18,
+                        "CONFIG"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I want to buy a i5 laptop.",
+            {
+                "entities": [
+                    [
+                        16,
+                        18,
+                        "CONFIG"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I want to buy a i3 laptop.",
+            {
+                "entities": [
+                    [
+                        16,
+                        18,
+                        "CONFIG"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I want to buy a Ryzen laptop.",
+            {
+                "entities": [
+                    [
+                        16,
+                        21,
+                        "CONFIG"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I want to buy a laptop with Graphics card.",
+            {
+                "entities": [
+                    [
+                        28,
+                        41,
+                        "COMPONENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I want to buy a laptop with 1650ti Graphics card.",
+            {
+                "entities": [
+                    [
+                        28,
+                        34,
+                        "CONFIG"
+                    ],
+                    [
+                        35,
+                        48,
+                        "COMPONENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I want to buy a laptop with 8GB RAM.",
+            {
+                "entities": [
+                    [
+                        28,
+                        31,
+                        "CONFIG"
+                    ],
+                    [
+                        32,
+                        35,
+                        "COMPONENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I want to buy a laptop with 8GB VRAM.",
+            {
+                "entities": [
+                    [
+                        28,
+                        31,
+                        "CONFIG"
+                    ],
+                    [
+                        32,
+                        36,
+                        "COMPONENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I want to buy a laptop with 8GB Graphic card.",
+            {
+                "entities": [
+                    [
+                        28,
+                        31,
+                        "CONFIG"
+                    ],
+                    [
+                        32,
+                        44,
+                        "COMPONENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I want to buy a laptop with Nvidia Graphic card.",
+            {
+                "entities": [
+                    [
+                        28,
+                        34,
+                        "BRAND"
+                    ],
+                    [
+                        35,
+                        48,
+                        "COMPONENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "What do you reccoment from Apple.",
+            {
+                "entities": [
+                    [
+                        27,
+                        32,
+                        "BRAND"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Show me laptops below 50000.",
+            {
+                "entities": [
+                    [
+                        16,
+                        21,
+                        "PRICE_TYPE"
+                    ],
+                    [
+                        22,
+                        27,
+                        "PRICE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Show me laptops above 70k.",
+            {
+                "entities": [
+                    [
+                        16,
+                        21,
+                        "PRICE_TYPE"
+                    ],
+                    [
+                        22,
+                        25,
+                        "PRICE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Show me laptops around 1 lakh.",
+            {
+                "entities": [
+                    [
+                        16,
+                        22,
+                        "PRICE_TYPE"
+                    ],
+                    [
+                        23,
+                        29,
+                        "PRICE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Show me laptops for more than 1 lakh.",
+            {
+                "entities": [
+                    [
+                        20,
+                        29,
+                        "PRICE_TYPE"
+                    ],
+                    [
+                        30,
+                        36,
+                        "PRICE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "What is the best device for 60k.",
+            {
+                "entities": [
+                    [
+                        28,
+                        31,
+                        "PRICE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "",
+            {
+                "entities": []
+            }
+        ]
+    ]
+}
