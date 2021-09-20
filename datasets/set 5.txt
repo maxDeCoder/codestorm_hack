@@ -1,1 +1,22 @@
-hi
+I want to buy a laptop which has screen of more than 13 inch.
+Show me laptop of screen size 25 inch.
+I want to buy a laptop with 10th gen Intel i5.
+Show me laptop with AMD Ryzen 5.
+Show only Intel Core laptops.
+Please show me laptop with GTX 3080 Gpu.
+Please show me laptop with GTX 1650 Ti Gpu.
+Show me laptop with NVIDIA RTX 30 series Gpu.
+Show me laptop of screen size 15.6 inch.
+Show me laptop with NVIDIA RTX 3080 Gpu.
+I want a laptop with battery life 16.5 hours.
+I want a laptop with battery life 12 hours.
+Show me HP laptops only.
+Show me Dell laptops only.
+Show me Lenovo laptops only.
+Display AMD Ryzen 9 5950X CPU laptop.
+Show laptop with Intel i5.
+Show laptop with Intel i7.
+Show laptop with quad-core processor.
+I want a laptop with fastest SSD. 
+Show laptops with Ram more than 6 GB.
+Show laptop with 16 GB ram.
